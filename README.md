@@ -1,4 +1,4 @@
-**👋 Olá! Eu sou o Guilherme Silveira**
+**👋 Olá! Eu sou o Guilherme Arthur Silveira**
 
 Sou um estudante de Desenvolvimento de Sistemas no SENAI, com 16 anos, sempre buscando aprender mais sobre tecnologia e programação.
 Tenho experiência com Python, MySQL, HTML, CSS. Gosto de criar projetos que envolvem lógica, automação e banco de dados.
