@@ -23,6 +23,8 @@ Sou curioso, dedicado e gosto de aprender coisas novas todos os dias 🚀
 
   ### 🌎 Onde me encontrar
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_guisilveiraa_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermearthursilveira13@gmail.com)
+
 
 ### ⚡ Curiosidades sobre mim
 - 🎯 Sempre busco aprender algo novo todos os dias  
