@@ -21,6 +21,16 @@ Sou curioso, dedicado e gosto de aprender coisas novas todos os dias 🚀
 - Fundamentos de **Flask (Python)**
 - Boas práticas de **MySQL**
 
+  ### 🌎 Onde me encontrar
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_guisilveiraa_)
+
+### ⚡ Curiosidades sobre mim
+- 🎯 Sempre busco aprender algo novo todos os dias  
+- ☕ Café é meu combustível pra programar  
+- 💡 Curto resolver problemas com código
+
+
+
 
 
 
