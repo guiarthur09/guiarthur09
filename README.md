@@ -13,8 +13,8 @@ Sou curioso, dedicado e gosto de aprender coisas novas todos os dias 🚀
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 🚀 **Meus principais projetos**  
-
-- 💾 **Sistema de Login** — usando Python e banco de dados.  
+- 👏 **Homenagem Professor** - utilizando Flask, HTML e CSS.
+- 💾 **Sistema de Login** — utilizando Python e banco de dados.  
 - 🌐 **Sistema de Reservas** com HTML e CSS — desenvolvido durante o curso do SENAI.
 
 ### 📖 Atualmente aprendendo
