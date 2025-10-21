@@ -10,7 +10,7 @@ Sou curioso, dedicado e gosto de aprender coisas novas todos os dias 🚀
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-###🛠️ Tecnologias
+### 🛠️ Tecnologias
  - ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,7 +24,7 @@ Sou curioso, dedicado e gosto de aprender coisas novas todos os dias 🚀
 - Fundamentos de **Flask (Python)**
 - Boas práticas de **MySQL**
 
-  ### 🌎 Onde me encontrar
+### 🌎 Onde me encontrar
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_guisilveiraa_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermearthursilveira13@gmail.com)
 
