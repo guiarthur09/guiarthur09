@@ -18,7 +18,6 @@ Sou curioso, dedicado e gosto de aprender coisas novas todos os dias 🚀
 ### 🚀 Meus principais projetos
 - 👏 **Homenagem Professor** - utilizando Flask, HTML e CSS.
 - [Hoemenagem Professor](https://github.com/guiarthur09/Projeto-Homengem-Professor)
-- 💾 **Sistema de Login** — utilizando Python e banco de dados.  
 - 🌐 **Sistema de Reservas** com HTML e CSS — desenvolvido durante o curso do SENAI.
 - [Sistema de Reservas](https://github.com/guiarthur09/Sistemaa)
 
