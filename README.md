@@ -19,7 +19,7 @@ Sou curioso, dedicado e gosto de aprender coisas novas todos os dias 🚀
 - 👏 **Homenagem Professor** - utilizando Flask, HTML e CSS.
 - 💾 **Sistema de Login** — utilizando Python e banco de dados.  
 - 🌐 **Sistema de Reservas** com HTML e CSS — desenvolvido durante o curso do SENAI.
-- [Outro Projeto Legal](https://github.com/guiarthur09/Sistemaa)
+- [Sistema de Reservas](https://github.com/guiarthur09/Sistemaa)
 
 ### 📖 Atualmente aprendendo
 - Fundamentos de **Flask (Python)**
