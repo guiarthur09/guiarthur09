@@ -17,7 +17,7 @@ Sou curioso, dedicado e gosto de aprender coisas novas todos os dias 🚀
 
 ### 🚀 Meus principais projetos
 - 🟣 **GameChip** - utilizado Flask, HTML CSS3, MySQL, JS.
-- [GameChip](https://github.com/TeamGHCP/GameChip.git).
+- [GameChip](https://github.com/TeamGHCP/GameChip.git)
 - 👏 **Homenagem Professor** - utilizando Flask, HTML e CSS.
 - [Hoemenagem Professor](https://github.com/guiarthur09/Projeto-Homengem-Professor)
 - 🌐 **Sistema de Reservas** com HTML e CSS — desenvolvido durante o curso do SENAI.
