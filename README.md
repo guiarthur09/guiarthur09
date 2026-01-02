@@ -35,6 +35,7 @@ Atualmente estou focado em aprimorar minhas habilidades técnicas e construir pr
 ---
 
 ## 📖 Atualmente aprendendo
+
 - Controle de versão com **Git & GitHub**
 - Desenvolvimento Web com **Flask (Python)**
 - Boas práticas de **banco de dados (MySQL)**
