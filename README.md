@@ -24,13 +24,13 @@ Atualmente estou focado em aprimorar minhas habilidades técnicas e construir pr
 
 ## 🚀 Projetos em destaque
 - 🟣 **GameChip** — Flask, HTML, CSS, JavaScript e MySQL  
-  🔗 https://github.com/TeamGHCP/GameChip
+  🔗 [GameChip](https://github.com/TeamGHCP/GameChip.git)
 
 - 👏 **Homenagem ao Professor** — Flask, HTML e CSS  
-  🔗 https://github.com/guiarthur09/Projeto-Homengem-Professor
+  🔗 [Hoemenagem Professor](https://github.com/guiarthur09/Projeto-Homengem-Professor)
 
 - 🌐 **Sistema de Reservas** — HTML e CSS (projeto desenvolvido no SENAI)  
-  🔗 https://github.com/guiarthur09/Sistemaa
+  🔗 [Sistema de Reservas](https://github.com/guiarthur09/Sistemaa)
 
 ---
 
