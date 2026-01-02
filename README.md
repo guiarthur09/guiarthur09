@@ -24,6 +24,7 @@ Sou curioso, dedicado e gosto de aprender coisas novas todos os dias 🚀
 - [Sistema de Reservas](https://github.com/guiarthur09/Sistemaa)
 
 ### 📖 Atualmente aprendendo
+- Fundamentos de **Git/GitHub**
 - Fundamentos de **Flask (Python)**
 - Boas práticas de **MySQL**
 
