@@ -1,5 +1,3 @@
-👋 Hi, I'm Guilherme Silveira
-
 💻 Future Software Engineer | Building my path in tech
 
 🚀 About Me
