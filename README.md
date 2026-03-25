@@ -23,11 +23,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/guiarthur09/guiarthur09/blob/output/github-contribution-grid-snake.svg)
-
-
 📫 Contact
 
 📧 Email: your-email@email.com
