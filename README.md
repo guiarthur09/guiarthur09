@@ -24,7 +24,7 @@
 
 📫 Contact
 
-📧 Email: guilhermearthur13@gmail.com@email.com <br>
+📧 Email: guilhermearthur13@email.com <br>
 💼 LinkedIn: (https://www.linkedin.com/in/guilherme-arthur-silveira-b37154320/)
 
 ⚡ Fun Fact
