@@ -2,7 +2,7 @@
 
 🚀 About Me
 
--- 🎓 Student at SENAI (Systems Development)
+- 🎓 Student at SENAI (Systems Development)
 -- 📚 Currently focused on JavaScript & Python
 -- ⚡ Always improving and building real projects
 -- 🎯 Looking for my first opportunity as a developer
