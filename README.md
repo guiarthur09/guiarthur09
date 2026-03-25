@@ -25,7 +25,7 @@
 
 📫 Contact
 
-📧 Email: your-email@email.com
+📧 Email: your-email@email.com <br>
 💼 LinkedIn: (add here)
 
 ⚡ Fun Fact
