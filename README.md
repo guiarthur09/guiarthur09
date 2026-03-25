@@ -1,10 +1,14 @@
 💻 Future Software Engineer | Building my path in tech
 
+---
+
 🚀 About Me
 
 🎓 Student at SENAI (Systems Development) <br>
 📚 Currently focused on JavaScript & Python <br>
 ⚡ Always improving and building real projects <br>
+
+---
 
 ## 🧠 Tech Stack
 
