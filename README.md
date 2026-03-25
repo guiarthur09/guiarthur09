@@ -3,9 +3,8 @@
 🚀 About Me
 
 🎓 Student at SENAI (Systems Development) <br>
--- 📚 Currently focused on JavaScript & Python <br>
--- ⚡ Always improving and building real projects <br>
--- 🎯 Looking for my first opportunity as a developer
+📚 Currently focused on JavaScript & Python <br>
+⚡ Always improving and building real projects <br>
 
 ## 🧠 Tech Stack
 
@@ -25,8 +24,8 @@
 
 📫 Contact
 
-📧 Email: your-email@email.com <br>
-💼 LinkedIn: (add here)
+📧 Email: guilhermearthur13@gmail.com@email.com <br>
+💼 LinkedIn: (https://www.linkedin.com/in/guilherme-arthur-silveira-b37154320/)
 
 ⚡ Fun Fact
 
