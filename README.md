@@ -5,8 +5,6 @@
 🚀 About Me
 
 🎓 Student at @senai (Systems Development) <br>
-📚 Currently focused on JavaScript & Python <br>
-⚡ Always improving and building real projects <br>
 
 ---
 
