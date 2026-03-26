@@ -6,7 +6,6 @@
 
 🎓 Student at @senai (Systems Development) <br>
 
----
 
 ## 🧠 Tech Stack
 
