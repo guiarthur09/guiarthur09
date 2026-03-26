@@ -1,10 +1,9 @@
 **💻 Future Software Engineer** | Building my path in tech
 
+🎓 Student at @senai (Systems Development)
+
 ---
 
-🚀 About Me
-
-🎓 Student at @senai (Systems Development) <br>
 
 
 ## 🧠 Tech Stack
