@@ -1,6 +1,6 @@
 **💻 Future Software Engineer** | Building my path in tech
 
-🎓 Student at @senai **(Systems Development)**
+🎓 Student at [@senai](https://www.instagram.com/senai.joinvillesc/) **(Systems Development)**
 
 ---
 
