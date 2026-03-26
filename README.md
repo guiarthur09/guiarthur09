@@ -32,6 +32,8 @@
 📧 Email: guilhermearthur13@email.com <br>
 💼 LinkedIn: [Guilherme Silveira](https://www.linkedin.com/in/guilherme-arthur-silveira-b37154320/)
 
+
+
 ⚡ Fun Fact
 
 I’m focused on evolving every single day 🚀
