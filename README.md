@@ -35,4 +35,3 @@
 
 I’m focused on evolving every single day 🚀
 
-🐍 Contribution Snake
