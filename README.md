@@ -1,4 +1,4 @@
-💻 Future Software Engineer | Building my path in tech
+**💻 Future Software Engineer** | Building my path in tech
 
 ---
 
