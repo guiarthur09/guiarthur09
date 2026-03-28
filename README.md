@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=guiarthur09&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=guiarthur09&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 ---
 
