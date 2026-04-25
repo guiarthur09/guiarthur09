@@ -1,4 +1,4 @@
-**💻 Future Software Engineer** | Building my path in tech
+**💻 Full Stack** | Building my path in tech
 
 🎓 Student at [@senai](https://www.instagram.com/senai.joinvillesc/)  **(Systems Development)**
 
