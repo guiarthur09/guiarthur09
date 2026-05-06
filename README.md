@@ -1,4 +1,4 @@
-**💻 Full Stack** | Building my path in tech
+**💻 Back-End** | Building my path in tech
 
 🎓 Student at [@senai](https://www.instagram.com/senai.joinvillesc/)  **(Systems Development)**
 
