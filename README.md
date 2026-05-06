@@ -8,7 +8,7 @@
 
 ## 🧠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,flask,mysql,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,mysql,js,html,css,giy,github)](https://skillicons.dev)
 
 ---
 
