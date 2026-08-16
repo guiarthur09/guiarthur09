@@ -8,7 +8,7 @@ Student at [@senai](https://www.instagram.com/senai.joinvillesc/)  **(Systems De
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,flask,mysql,sqlite,php,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,flask,mysql,sqlite,php,c,git,github)](https://skillicons.dev)
 
 
 ---
