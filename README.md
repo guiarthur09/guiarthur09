@@ -16,6 +16,15 @@ Student at [SENAI](https://cursos.sesisenai.org.br/) **(Systems Development)**
 ---
 
 
+## 📊 GitHub Stats
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guiarthur09show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top
+
+
+---
+
+
 Contact
 
 📧 Email: guilhermearthur13@email.com <br>
