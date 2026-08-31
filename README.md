@@ -18,9 +18,8 @@ Student at [SENAI](https://cursos.sesisenai.org.br/) **(Systems Development)**
 
 ## 📊 GitHub Stats
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guiarthur09show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact)
 
 ---
 
