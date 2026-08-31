@@ -1,4 +1,4 @@
-# Hi, I'm Guilherme 
+# Hi, I'm Guilherme 👋
 
 **💻 Back-End** | Building my path in tech
 
