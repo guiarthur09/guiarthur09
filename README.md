@@ -2,7 +2,7 @@
 
 **💻 Back-End** | Building my path in tech
 
-Student at [SENAI]([https://cursos.sesisenai.org.br/])  **(Systems Development)**
+Student at [SENAI]([https://cursos.sesisenai.org.br/]) **(Systems Development)**
 
 ---
 
