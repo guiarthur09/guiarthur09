@@ -1,6 +1,6 @@
 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:9BE9A8,33:40C463,66:30A14E,100:216E39&text=Guilherme%20&section=header&reversal=false&textBg=false&fontAlignY=40&fontColor=F5F5F0&animation=fadeIn&desc=System%20Developer&descAlignY=65&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:9BE9A8,33:40C463,66:30A14E,100:216E39&text=Guilherme%20&section=header&reversal=false&textBg=false&fontAlignY=40&fontColor=F5F5F0&animation=fadeIn&desc=System%20Developer&descAlignY=60&descSize=20)
 
 # Hi, I'm Guilherme 👋
 
