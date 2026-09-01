@@ -19,10 +19,6 @@
 - 🌱 Learning Python, FastAPI, Flask, and databases through hands-on practice
 - 🎯 Looking for my first opportunity in the field
 
-## 🛠️ Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,flask,mysql,sqlite,php,c,git,github)](https://skillicons.dev)
-
 
 ---
 
