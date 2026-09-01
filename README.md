@@ -6,7 +6,7 @@
 
 *Systems Development • Back-End Developer*
 
-[![Email](https://img.shields.io/badge/-Email-30A14E?style=flat-square&logo=SENAI&logoColor=white)](mailto:guilhermearthursilveira13@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-30A14E?style=flat-square&logo=gmail&logoColor=white)](mailto:guilhermearthursilveira13@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-30A14E?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-arthur-silveira-b37154320/)
 [![GitHub](https://img.shields.io/badge/-GitHub-30A14E?style=flat-square&logo=github&logoColor=white)](https://github.com/guiarthur09)
 
