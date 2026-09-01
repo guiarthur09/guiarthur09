@@ -4,7 +4,7 @@
 
 # Hi, I'm Guilherme 👋
 
-*Systems Development Student • Aspiring Back-End Developer*
+*Systems Development • Back-End Developer*
 
 [![Email](https://img.shields.io/badge/-Email-30A14E?style=flat-square&logo=gmail&logoColor=white)](mailto:guilhermearthur13@email.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-30A14E?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-arthur-silveira-b37154320/)
