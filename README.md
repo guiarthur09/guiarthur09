@@ -22,4 +22,4 @@
 
 ---
 
-*Learning a little more, every single day.* 🚀
+*Learning a little more, every single day.* ❇️
