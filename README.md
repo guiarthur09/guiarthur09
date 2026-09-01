@@ -23,13 +23,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,flask,mysql,sqlite,php,c,git,github)](https://skillicons.dev)
 
-## 🚀 Featured Projects
-
-> Replace the examples below with your real projects. Even school assignments or course projects from SENAI count.
-
-- **[Project Name 1](repo-link)** — short description of what it does and what problem it solves. *Tech: Python, Flask, MySQL*
-- **[Project Name 2](repo-link)** — short description. *Tech: FastAPI, SQLite*
-- **[Project Name 3](repo-link)** — short description. *Tech: PHP, MySQL*
 
 ## 📊 GitHub Stats
 
