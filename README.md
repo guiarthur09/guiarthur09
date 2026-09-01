@@ -24,12 +24,6 @@
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,flask,mysql,sqlite,php,c,git,github)](https://skillicons.dev)
 
 
-## 📊 GitHub Stats
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guiarthur09&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guiarthur09&layout=compact)
-
 ---
 
 *Learning a little more, every single day.* 🚀
