@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Studying **Systems Development** at [SENAI](https://cursos.sesisenai.org.br/)
+- 🎓 Studying **Systems Development** at [![SENAI](https://img.shields.io/badge/-SENAI-30A14E?style=flat-square&logo=SENAI&logoColor=white)](https://cursos.sesisenai.org.br/)
 - 💻 Focused on becoming a **Back-End Developer**
 - 🌱 Learning Python, FastAPI, Flask, and databases through hands-on practice
 - 🎯 Looking for my first opportunity in the field
